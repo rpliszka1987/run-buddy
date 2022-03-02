@@ -284,6 +284,12 @@ section {
     color: #fce138;
 }
 
+.contact-info {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
 /* iframe  */
 
 .contact-info iframe {
